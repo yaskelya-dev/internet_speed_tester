@@ -17,3 +17,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 python3 ./internet_speed_tester.py
 ```
+
+Повторные запуски уже просто:
+```bash
+python3 ./internet_speed_tester.py
+```
