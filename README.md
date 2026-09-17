@@ -8,7 +8,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone ...
+git clone https://github.com/yaskelya-dev/internet_speed_tester.git
 python3 -m venv venv
 source venv/bin/activate
 
