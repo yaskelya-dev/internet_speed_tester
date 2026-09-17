@@ -9,6 +9,8 @@
 
 ```bash
 git clone https://github.com/yaskelya-dev/internet_speed_tester.git
+cd ./internet_speed_tester/
+
 python3 -m venv venv
 source venv/bin/activate
 
